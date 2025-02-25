@@ -25,7 +25,7 @@ from setuptools import setup, find_packages
 link = "https://download.pytorch.org/whl/cu121"
 REQUIRED_PACKAGES = [
     "numpy==1.26.4",
-    "transformers==4.42.4",
+    "transformers==4.48.0",
     "huggingface_hub==0.23.5",
     "addict==2.4.0",
     "opencv-python==4.10.0.84",
